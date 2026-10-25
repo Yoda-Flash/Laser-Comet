@@ -2,8 +2,8 @@
   "ver": "0.1",
   "info": {
     "id": "",
-    "name": "",
-    "description": "",
+    "name": "Laser Comet",
+    "description": "Fuzzier version of the original demo",
     "tags": []
   },
   "renderpass": [
